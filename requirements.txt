@@ -4,3 +4,7 @@ black
 wikipedia
 ipython
 fire
+fastapi
+pydantic
+uvicorn[standard]
+OpenSSL 1.1.1+
