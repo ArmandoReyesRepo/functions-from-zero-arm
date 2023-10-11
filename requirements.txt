@@ -7,4 +7,5 @@ fire
 fastapi
 pydantic
 uvicorn[standard]
-OpenSSL 1.1.1+
+urllib3==1.26.6
+
